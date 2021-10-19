@@ -10,6 +10,8 @@ Sou mentorada pela escola de programação PodCodar. Este projeto tem por finali
 * Finalizar a V0 do conversor de moedas trabalhando com o Bootstrap 
 * Evoluir as versões e funcionalidades do conversor de moedas 
 * Realizar problemas de lógica
+* Introduzir estudos e aplicações de API's 
+* Introduzir React
 
  <p align="center">
  <img src="https://media.giphy.com/media/e2CkuBvEwm97Zit8pf/giphy.gif" </img>
